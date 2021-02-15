@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  laravel-test:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-02-14T18:33:08.0638895-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 02c37bd74c77df6d8d6914616a81f174b3cba9dcbc54cd2e049dd7505916feed
+    name: laravel-test
+    type: application
+    urls:
+    - laravel-test-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-02-14T18:33:08.0568832-05:00"
